@@ -19,7 +19,7 @@ The goal is to convert raw listening data into **actionable insights for persona
 ### 3. Data Preprocessing (KNIME)
 - Combined multiple datasets using Joiner nodes  
 - Cleaned and filtered relevant columns  
-- Handled missing feature values (excluded ~700 tracks without API data)  
+-Handled missing feature data (~700 tracks) using genre-based averages and global fallback to maintain data completeness
 - Aggregated and structured data for analysis  
 
 ---
