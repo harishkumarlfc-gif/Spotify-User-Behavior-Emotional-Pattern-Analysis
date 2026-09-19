@@ -6,7 +6,7 @@ Music streaming platforms need to understand:
 - Emotional preferences in music consumption  
 - Engagement patterns for better recommendations  
 
-The goal is to convert raw listening data into **actionable insights for personalization and retention**.
+The goal is to convert raw listening data into **behavioral insights and recommendation signals for personalization**.
 
 ---
 
@@ -83,7 +83,7 @@ Example logic:
 
 ### 8. Business Solution
 
-This project enables streaming platforms to:
+This project highlights potential applications for streaming platforms:
 
 #### 🎯 Personalization
 - Recommend songs based on **emotional preference**, not just popularity  
@@ -110,4 +110,4 @@ The analysis shows that:
 - Emotional consistency plays a major role in listening patterns  
 - Combining time + emotion + behavior enables **strong recommendation systems**  
 
-👉 This creates a foundation for **next-gen personalized music experiences**
+👉 This creates a foundation for exploring **personalized music experiences**
